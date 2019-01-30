@@ -13,7 +13,7 @@ body,
 /*rgba(0, 205, 175, 0.23), rgba(0, 205, 175,.9))*/
 
 .wrapper {
-  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.9)), url(./img/bg.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.9)), url(../img/bg.jpg);
   background-position: center top;
   background-size: cover;
   position: relative;
